@@ -1,4 +1,4 @@
-## Doge Ball - Assemby Game in Motorola 68K
+## Doge Ball - Assembly Game in Motorola 68K
 
 A game in Motorola 68000 assembly language (developed in EASy68K IDE) for a project in the Programming-1 curriculum at FIEA, UCF.
 
