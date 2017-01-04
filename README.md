@@ -21,7 +21,7 @@ The project was supposed to have the following features as per instruction:
 3. Open main.X68 in EAS68K, and execute the program.
 
 ### Additional Information:
-- main.X68 is the program where execution starts.
+- main.X68 is the file where the program's execution starts.
 - randomizationFunctions.X68 has a subroutine for generating random numbers.
 - ledDisplaySubroutine.X68 has a subroutine for displaying a 7-segment LED display for a given number and position as input.
 - bmpLoader.X68 has a subroutine for rendering a chunk of a BMP image at a specific position based on input.
