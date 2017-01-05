@@ -2,9 +2,9 @@
 
 A game in Motorola 68000 assembly language (developed in EASy68K IDE) for a project in the Programming-1 curriculum at FIEA, UCF.
 
-Here is a demo video of the game - (ADD LINK)
+**Demo video** - [YouTube](https://youtu.be/2zrnzTrPqpE)
 
-The project was supposed to have the following features as per instruction:
+### The project was supposed to have the following features as per instruction:
 
 - User input control of game entity
 - Bitmap background with entities moving around over it
